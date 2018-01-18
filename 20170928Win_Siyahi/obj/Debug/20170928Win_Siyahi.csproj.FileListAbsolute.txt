@@ -1,0 +1,9 @@
+E:\MPD_20172018\20170928Win_Siyahi\20170928Win_Siyahi\bin\Debug\20170928Win_Siyahi.exe.config
+E:\MPD_20172018\20170928Win_Siyahi\20170928Win_Siyahi\bin\Debug\20170928Win_Siyahi.exe
+E:\MPD_20172018\20170928Win_Siyahi\20170928Win_Siyahi\bin\Debug\20170928Win_Siyahi.pdb
+E:\MPD_20172018\20170928Win_Siyahi\20170928Win_Siyahi\obj\Debug\20170928Win_Siyahi.csprojResolveAssemblyReference.cache
+E:\MPD_20172018\20170928Win_Siyahi\20170928Win_Siyahi\obj\Debug\_20170928Win_Siyahi.Form1.resources
+E:\MPD_20172018\20170928Win_Siyahi\20170928Win_Siyahi\obj\Debug\_20170928Win_Siyahi.Properties.Resources.resources
+E:\MPD_20172018\20170928Win_Siyahi\20170928Win_Siyahi\obj\Debug\20170928Win_Siyahi.csproj.GenerateResource.Cache
+E:\MPD_20172018\20170928Win_Siyahi\20170928Win_Siyahi\obj\Debug\20170928Win_Siyahi.exe
+E:\MPD_20172018\20170928Win_Siyahi\20170928Win_Siyahi\obj\Debug\20170928Win_Siyahi.pdb
